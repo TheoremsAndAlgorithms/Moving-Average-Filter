@@ -1,2 +1,2 @@
 # Moving-Average-Filter
-A simples embedded friendly moving average filter
+A simple embedded friendly moving average filter
